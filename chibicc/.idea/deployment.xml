@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="广州云服务器 (e123f22f-9720-4612-a010-aa8e433ef730)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/chibicc" local="$PROJECT_DIR$/src" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/src/cmake-build-remote-cloud" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
