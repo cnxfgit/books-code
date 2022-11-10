@@ -1,2 +1,5 @@
-cmake-build-debug/
-.idea/
+*~
+*.o
+tmp*
+a.out
+9cc
